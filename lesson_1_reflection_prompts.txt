@@ -1,0 +1,50 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    yes
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    yes
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    pros is better in terms of eficenci and no always do you like saved a file , it is fil is no complete have a serious problem there
+   cons is a little more work but is no necesarily bad 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+   is more eficencie 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log to use for view all changes 
+    git diff use for compare files 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    there are no risks in modifying the coder 
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    yes 
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	because then I can see and analyze not only what my colleagues did but the whole code
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+	pros more control vs automatically saved, is more efecientily work with team 
+	cons is manual onli this
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+	Is more eficientity because is better to my history is more short, at time to working at project is my easy check the work or check a mistake 
+
+How can you use the commands git log and git diff to view the history of files?
+	to find mistakes a
+
+How might using version control make you more confident to make changes that could break something
+	for the control of the code and the changed to make 
